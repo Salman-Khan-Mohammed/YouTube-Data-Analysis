@@ -11,7 +11,8 @@ In this assignment, you will write a Python script to download user interaction 
 6.	Comment Count
 7.	Duration of the video
 8.	Favorite Count
-While extracting the data, if any of the “youtubeId” does not work, please ignore that ID and proceed with the following “youtubeId”.
+
+
 After the data extraction is done, then please find out the following:
 1.	A list of  the top-10 videos based on the total views
 2.	A list of the bottom-10 videos based on the total views
